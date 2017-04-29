@@ -1,0 +1,8 @@
+Bu tools'un özelliði 75 tane Dns Block List sitesinden Vereceðiniz ipyi tarayarak lsiteye alýnýp alýnmadýðýný sorgulamasýdýr.
+Ýletiþim: 05554128854 
+Ýletiþim: ebubekirbastama@elmalicesmekuruyemis.com 
+Ýletiþim için:www.ebubekirbastama.com
+Ticari Proje için Web Servis'i isteyen olursa 05554128854 olaþabilirsiniz.
+Kullanýmý:
+Dosyayý yüklediðiniz yerde çalýþtýrabilirsiniz.Ayný zamanda .Xml olarak tools'un olduðu yere otomatik çýkarýlmaktadýr.
+kullaným þekli:(python bekra.py ipadresi)
